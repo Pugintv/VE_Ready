@@ -1,0 +1,21 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2013 TIG
+# Made for 'Proj_ToolTesting06.obj'
+
+newmtl Default_Material
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 0009_Linen
+Ka 0.980392 0.941176 0.901961
+Kd 0.980392 0.941176 0.901961
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+#EOF
